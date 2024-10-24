@@ -27,10 +27,12 @@ void loop() {
     if (currentStateUp == LOW) {
       //Serial.println("Scroll Up");
       bleKeyboard.write(218); // up button
+      delay(500);
     }
     if (currentStateDown == LOW) {
       //Serial.println("Scroll Down");
       bleKeyboard.write(217); // down button
+      delay(500);
     }
     bleKeyboard.releaseAll();
   }
