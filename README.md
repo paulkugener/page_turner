@@ -2,7 +2,7 @@
 
 Arduino script for a ESP32 BLE page turner
 
-## Requirement
+## Requirements
 
 I use a tablet to read music sheets.
 Sometimes I do not have a rest where I can turn to the next page.
