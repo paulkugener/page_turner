@@ -10,7 +10,7 @@ Arduino script for a ESP32 BLE page turner
 
 ## Solution
 
-- I used an ESP32 and wrote a short script in which a keyboard is emulated. (I use a library for this- TY!)
+- I used an ESP32 and wrote a short script in which a keyboard is emulated. ESP BLE Keyboard library: https://github.com/T-vK/ESP32-BLE-Keyboard
 - There are two buttons; one to scroll up and one to scroll down.
 - I use a small electrical case to hold the board. (see pictures)
 - The board is powered by a small power bank.
